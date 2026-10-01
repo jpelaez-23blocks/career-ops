@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.14.0](https://github.com/career-ops-hq/career-ops/compare/web-v0.13.0...web-v0.14.0) (2026-10-01)
+
+
+### Features
+
+* **i18n:** support language.modes_dir as a list of declared markets ([#3798](https://github.com/career-ops-hq/career-ops/issues/3798)) ([d31a138](https://github.com/career-ops-hq/career-ops/commit/d31a138e8b3dc1971a43e15931623112c8a83246))
+
+
+### Bug Fixes
+
+* **pipeline:** break sort ties on the row number, so newest-first reorders a date ([#4333](https://github.com/career-ops-hq/career-ops/issues/4333)) ([c4f2c3f](https://github.com/career-ops-hq/career-ops/commit/c4f2c3fcbd22979143a0e6115bd2718a820ac41b))
+* **web:** validate profile updates before writing ([#4500](https://github.com/career-ops-hq/career-ops/issues/4500)) ([b208464](https://github.com/career-ops-hq/career-ops/commit/b2084646acdc2bc34ad48ed8b7292d48c3aa3561))
+
 ## [0.13.0](https://github.com/career-ops-hq/career-ops/compare/web-v0.12.0...web-v0.13.0) (2026-10-01)
 
 
